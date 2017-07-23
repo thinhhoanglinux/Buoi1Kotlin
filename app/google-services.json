@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "298220592475",
+    "firebase_url": "https://buoi1firebase.firebaseio.com",
+    "project_id": "buoi1firebase",
+    "storage_bucket": "buoi1firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:298220592475:android:0a104a467388ca47",
+        "android_client_info": {
+          "package_name": "com.example.root.buoi1kotlin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "298220592475-g9h52jiurg3bvujrg2kcu9h38pitl1fv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.root.buoi1kotlin",
+            "certificate_hash": "4a4b0f69ded94f24ed5d4d23a8fdb2aa7803dbda"
+          }
+        },
+        {
+          "client_id": "298220592475-nfp0fn0kqg2el1ju7a8iam8a20jh398c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdMSbMRKzf6EM6HcXKYv6uKq1YYCYHPMI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "298220592475-nfp0fn0kqg2el1ju7a8iam8a20jh398c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
